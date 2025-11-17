@@ -1,6 +1,7 @@
 # Andre Poyser-Official Threat-Hunting-Scenario Project
 
-<img width="400" src="https://github.com/user-attachments/assets/44bac428-01bb-4fe9-9d85-96cba7698bee" alt="Tor Logo with the onion and a crosshair on it"/>
+<img width="427" height="322" alt="image" src="https://github.com/user-attachments/assets/ba7be7f1-af6b-48b1-87ab-d764d51a4764" />
+
 
 # Threat Hunt Report: Unauthorized TOR Usage
 - [Scenario Creation](https://github.com/andrepoyser980/Threat-Hunting-Scenario-tor/blob/main/threat-hunting-scenario-tor-event-creation.md)
