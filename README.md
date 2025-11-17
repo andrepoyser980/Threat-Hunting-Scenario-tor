@@ -214,6 +214,6 @@ This threat hunt confirms that the Tor Browser was intentionally installed and a
 
 ## Response Taken
 
-TOR usage was confirmed on the endpoint `threat-hunt-lab` by the user `employee`. The device was isolated, and the user's direct manager was notified.
+TOR usage was confirmed on the endpoint `windows-11-impo` by the user `labman`. The device was isolated, and the user's direct manager was notified.
 
 ---
